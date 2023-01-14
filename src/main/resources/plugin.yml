@@ -1,0 +1,4 @@
+name: Joinmessage
+version: '${project.version}'
+main: missingdrift.joinmessage
+authors: [ MissingDrift ]

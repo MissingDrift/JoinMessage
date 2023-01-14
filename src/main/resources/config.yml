@@ -1,0 +1,8 @@
+# CONFIGURATION
+
+# Placeholders:
+# {player} = the name of the player
+
+welcome-message:
+  - '&fWelcome &b{player}!'
+  - '&7This plugin is made by &eMissingDrift!'
